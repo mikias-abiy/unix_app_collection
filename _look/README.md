@@ -28,7 +28,3 @@ e : NOT FOUND
 es : NOT FOUND
 est : NOT FOUND
 ```
-NOTE: This is not for production purpose just for training and developing skills
-you can adjust the tools in this repository per your own preference.
-
-Thankyou for visiting.
